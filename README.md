@@ -11,7 +11,7 @@ Please view [README-EN.md](https://github.com/chvin/react-tetris/blob/master/REA
 
 ----
 ### 效果预览
-![效果预览](https://img.alicdn.com/tps/TB1Ag7CNXXXXXaoXXXXXXXXXXXX-320-483.gif)
+![效果预览](https://img.alicdn.com/tps/TB1Ag7CNXXXXXaoXX XXXXXXXXXX-320-483.gif)
 
 正常速度的录制，体验流畅。
 
@@ -127,7 +127,7 @@ Immutable学习资料：
 关键的库：[gajus/redux-immutable](https://github.com/gajus/redux-immutable)
 将原来 Redux提供的combineReducers改由上面的库提供：
 ``` JavaScript
-// rootReduers.js
+// rootReducers.js
 // import { combineReducers } from 'redux'; // 旧的方法
 import { combineReducers } from 'redux-immutable'; // 新的方法
 
